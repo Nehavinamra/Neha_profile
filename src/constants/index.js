@@ -15,16 +15,11 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   mediatrails,
   iub,
+  musicplayer,
+  deliverease,
 } from "../assets";
 
 export const navLinks = [
@@ -162,7 +157,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: musicplayer,
     source_code_link: "https://github.com/Nehavinamra/Music-Player",
   },
   {
@@ -183,7 +178,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: deliverease,
     source_code_link: "https://github.com/Nehavinamra/DeliverEase",
   },
 ];
