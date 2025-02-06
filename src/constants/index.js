@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  mediatrails,
+  iub,
 } from "../assets";
 
 export const navLinks = [
@@ -118,7 +120,7 @@ const experiences = [
   {
     title: "Software Engineer Internship",
     company_name: "Media Trails",
-    icon: starbucks,
+    icon: mediatrails,
     iconBg: "#383E56",
     date: "November 2021 - March 2022",
     points: [
@@ -130,7 +132,7 @@ const experiences = [
   {
     title: "Women Who Code Intern",
     company_name: "Indiana University Bloomington",
-    icon: tesla,
+    icon: iub,
     iconBg: "#E6DEDD",
     date: "March 2024 - September 2024",
     points: [
