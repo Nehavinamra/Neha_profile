@@ -44,3 +44,5 @@ npm install
 npm run dev
 
 5. Now, open http://localhost:3000 in your browser.
+
+6. To run, deploy use command: npm run deploy:full
